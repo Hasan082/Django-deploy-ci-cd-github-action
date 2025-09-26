@@ -1,4 +1,4 @@
-# Prime Academy Django API Deployment Guide
+# Django API Deployment Guide on VPS
 
 This documentation provides step-by-step instructions for deploying the Prime Academy Django API on a production server.
 
